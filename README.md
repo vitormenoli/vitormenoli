@@ -25,8 +25,8 @@ Estou constantemente aprimorando minhas habilidades e conhecimentos. A seguir, a
 
 ### 📱 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vitormenoli](https://www.linkedin.com/in/vitor-menoli-nakamura-39a8bb2b6/))
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)]([https://www.youtube.com/c/vitormenoli](https://www.youtube.com/@vitor.menoli))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/vitormenoli](https://www.instagram.com/vitor.menoli))
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@vitormenoli](https://www.tiktok.com/@vitor.menoli))
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)]([https://discord.com/users/vitormenoli](https://discord.com/invite/bMq8GC7dJV))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-menoli-nakamura-39a8bb2b6/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vitor.menoli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.menoli)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vitor.menoli)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/bMq8GC7dJV)
