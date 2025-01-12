@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá, sou Vitor, Estudante de Engenharia de Software.
 
-<!--
-**vitormenoli/vitormenoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou constantemente aprimorando minhas habilidades e conhecimentos. A seguir, apresento algumas estatísticas sobre meus projetos e contribuições.
 
-Here are some ideas to get you started:
+### 🏆 Card Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitormenoli&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite&text_color=ffffff&icon_color=1cfc77&bg_color=232323&hide=prs&ring_color=1cfc77)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Linguagens Mais Usadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormenoli&layout=compact&hide_title=true&hide_border=true&theme=graywhite&text_color=ffffff&bg_color=232323&title_color=ffffff)
+
+
+### 💻 Tecnologias que Uso
+
+![HTML](https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0a74da?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+### 📱 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitormenoli)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/vitormenoli)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/vitormenoli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vitormenoli)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vitormenoli)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/vitormenoli)
