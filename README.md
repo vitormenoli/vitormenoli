@@ -2,11 +2,13 @@
 
 Estou constantemente aprimorando minhas habilidades e conhecimentos. A seguir, apresento algumas estatísticas sobre meus projetos e contribuições.
 
-### 🏆 Card Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitormenoli&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite&text_color=ffffff&icon_color=1cfc77&bg_color=232323&hide=prs&ring_color=1cfc77)
-
-### 🛠️ Minhas Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormenoli&layout=compact&hide_title=true&hide_border=true&theme=graywhite&text_color=ffffff&bg_color=232323&title_color=ffffff)
+### 🏆 Estatísticas
+<div>
+  <a href="https://menoli-redes.glitch.me/">
+    <img src="https://github-readme-stats.vercel.app/api?username=vitormenoli&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=graywhite&text_color=ffffff&icon_color=1cfc77&bg_color=232323&hide=prs&ring_color=1cfc77" height="100px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormenoli&layout=compact&hide_title=true&hide_border=true&theme=graywhite&text_color=ffffff&bg_color=232323&title_color=ffffff" height="100px"/>
+  </a>
+</div>
 
 
 ### 💻 Tecnologias que Uso
